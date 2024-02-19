@@ -19,3 +19,8 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# files
+*.pdf
+*.java
+*.zip
