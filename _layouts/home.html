@@ -44,6 +44,179 @@ It's still under construction, so please don't mind any wonky happenings on this
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
+  <!--- Summaries added first 
+    Analysis 1 --->
+  <article class="card-wrapper card">
+    <a href="assets\documents\summaries\analysis1.pdf" class="post-preview row g-0 flex-md-row-reverse">
+
+      <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Analysis I</h1>
+
+          <div class="card-text content mt-0 mb-3">
+            <p>
+              This was my first LaTex cheatsheet;). It is heavily inspired by other summaries.
+            </p>
+          </div>
+
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              July 2022
+
+              <!-- categories -->
+
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+                  Summaries, Analysis
+                </span>
+            </div>
+          </div>
+          <!-- .post-meta -->
+        </div>
+        <!-- .card-body -->
+      </div>
+    </a>
+  </article>
+<!--- Analysis 2 --->
+  <article class="card-wrapper card">
+    <a href="assets\documents\summaries\AnalysisII.pdf" class="post-preview row g-0 flex-md-row-reverse">
+
+      <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Analysis II</h1>
+
+          <div class="card-text content mt-0 mb-3">
+            <p>
+              English cheatsheet for the 3. semester course. Heavy on theory but not lacking exercises.
+            </p>
+          </div>
+
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              January 2023
+
+              <!-- categories -->
+
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+                  Summaries, Analysis
+                </span>
+            </div>
+          </div>
+          <!-- .post-meta -->
+        </div>
+        <!-- .card-body -->
+      </div>
+    </a>
+  </article>
+<!--- WuS --->
+  <article class="card-wrapper card">
+    <a href="assets\documents\summaries\WuS.pdf" class="post-preview row g-0 flex-md-row-reverse">
+
+      <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Probability & Statistics</h1>
+
+          <div class="card-text content mt-0 mb-3">
+            <p>
+              Goes deep into theory but has example exercises in the theory parts. 
+              To highlight are the multiple approaches presented to solve Random Variable transformations.
+            </p>
+          </div>
+
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              July 2023
+
+              <!-- categories -->
+
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+                  Summaries, Probability
+                </span>
+            </div>
+          </div>
+          <!-- .post-meta -->
+        </div>
+        <!-- .card-body -->
+      </div>
+    </a>
+  </article>
+  <!--- AnW --->
+  <article class="card-wrapper card">
+    <a href="assets\documents\summaries\AnW23_PVW_final.pdf" class="post-preview row g-0 flex-md-row-reverse">
+
+      <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Algorithms & Probability</h1>
+
+          <div class="card-text content mt-0 mb-3">
+            <p>
+              Compendium of all my notes I used while teaching Algorithms & Probability in FS 2023.
+            </p>
+          </div>
+
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              July 2023
+
+              <!-- categories -->
+
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+                  Summaries, Probability, Algorithms
+                </span>
+            </div>
+          </div>
+          <!-- .post-meta -->
+        </div>
+        <!-- .card-body -->
+      </div>
+    </a>
+  </article>
+  <!--- TheoInf --->
+  <article class="card-wrapper card">
+    <a href="assets\documents\summaries\Beweisideen101.pdf" class="post-preview row g-0 flex-md-row-reverse">
+
+      <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Theoretical Computer Science</h1>
+
+          <div class="card-text content mt-0 mb-3">
+            <p>
+               Summary compiled from LaTex Slides I used during my exercise sessions in the HS 2023 edition of the course.
+            </p>
+          </div>
+
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              December 2023
+
+              <!-- categories -->
+
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+                  Summaries, Theoretical CS
+                </span>
+            </div>
+          </div>
+          <!-- .post-meta -->
+        </div>
+        <!-- .card-body -->
+      </div>
+    </a>
+  </article>
+
   {% for post in posts %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
