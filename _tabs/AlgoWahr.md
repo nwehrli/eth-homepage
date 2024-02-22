@@ -16,3 +16,7 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 {: .prompt-info }
 
 ## Weekly Notes
+
+| Week | Keywords                                                        | File                                                            |
+| ---- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| 01   | Grundbegriffe, Zusammenhang, Eulertour/Hamiltonkreis  | [AnW24_week01.pdf](..\assets\documents\AnW\AnW24_week01.pdf) |
