@@ -20,3 +20,4 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | Week | Keywords                                                        | File                                                            |
 | ---- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | 01   | Grundbegriffe, Zusammenhang, Eulertour/Hamiltonkreis  | [AnW24_week01.pdf](..\assets\documents\AlgoWahr\AnW24_week01.pdf) |
+| 02   | Satz von Dirac, Hamilton DP, TSP, Matchings | [AnW24_week02.pdf](..\assets\documents\AlgoWahr\AnW24_week02.pdf) |
