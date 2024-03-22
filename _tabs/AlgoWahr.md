@@ -23,3 +23,4 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 02   | Satz von Dirac, Hamilton DP, TSP, Matchings | [AnW24_week02.pdf](..\assets\documents\AlgoWahr\AnW24_week02.pdf) |
 | 03   | Satz von Hall, Augmentierende Pfade, TSP, Färbung | [AnW24_week03.pdf](..\assets\documents\AlgoWahr\AnW24_week03.pdf) |
 | 04   | Hopcroft & Karp, Färbung, Einführung Wahrscheinlichkeit | [AnW24_week04.pdf](..\assets\documents\AlgoWahr\AnW24_week04.pdf) |
+| 05   | Bedingte Wahrscheinlichkeit, Unabhängigkeit, Zufallsvariablen | [AnW24_week05.pdf](..\assets\documents\AlgoWahr\AnW24_week05.pdf) |
