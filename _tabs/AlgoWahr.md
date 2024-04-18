@@ -26,3 +26,4 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 05   | Bedingte Wahrscheinlichkeit, Unabhängigkeit, Zufallsvariablen | [AnW24_week05.pdf](..\assets\documents\AlgoWahr\AnW24_week05.pdf) |
 | 06   | Erwartungswert, Verteilungen, Probability DP | [AnW24_week06.pdf](..\assets\documents\AlgoWahr\AnW24_week06.pdf) | 
 | 07   | Bedingte ZV, Varianz, Abschätzungen | [AnW24_week07.pdf](..\assets\documents\AlgoWahr\AnW24_week07.pdf) |
+| 08   | Randomisierte Algorithmen, Target Shooting, Primzahltest | [AnW24_week08.pdf](..\assets\documents\AlgoWahr\AnW24_week08.pdf) |
