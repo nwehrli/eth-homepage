@@ -27,3 +27,4 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 06   | Erwartungswert, Verteilungen, Probability DP | [AnW24_week06.pdf](..\assets\documents\AlgoWahr\AnW24_week06.pdf) | 
 | 07   | Bedingte ZV, Varianz, Abschätzungen | [AnW24_week07.pdf](..\assets\documents\AlgoWahr\AnW24_week07.pdf) |
 | 08   | Randomisierte Algorithmen, Target Shooting, Primzahltest | [AnW24_week08.pdf](..\assets\documents\AlgoWahr\AnW24_week08.pdf) |
+| 09   | Smallest Enclosing Circle, Long Paths | [AnW24_week09.pdf](..\assets\documents\AlgoWahr\AnW24_week09.pdf) |
