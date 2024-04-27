@@ -2,7 +2,7 @@
 title: Algorithms & Datastructures - Autumn 2022
 icon: fa-solid fa-code-compare
 categories: [Courses, AnD]
-order: 2
+order: 4
 ---
 
 ## Slides
