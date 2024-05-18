@@ -28,3 +28,6 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 07   | Bedingte ZV, Varianz, Abschätzungen | [AnW24_week07.pdf](..\assets\documents\AlgoWahr\AnW24_week07.pdf) |
 | 08   | Randomisierte Algorithmen, Target Shooting, Primzahltest | [AnW24_week08.pdf](..\assets\documents\AlgoWahr\AnW24_week08.pdf) |
 | 09   | Smallest Enclosing Circle, Long Paths | [AnW24_week09.pdf](..\assets\documents\AlgoWahr\AnW24_week09.pdf) |
+| 10   | Convex Hull, Jarvis Wrap, Local Repair | [AnW24_week10.pdf](..\assets\documents\AlgoWahr\AnW24_week10.pdf)|
+| 11   | No lesson, Ascension | - |
+| 12   | Flows, Applications of Flows | [AnW24_week12.pdf](..\assets\documents\AlgoWahr\AnW24_week12.pdf) |
