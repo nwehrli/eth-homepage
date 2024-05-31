@@ -34,3 +34,7 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 13   | Randomized MinCut | [AnW24_week13.pdf](..\assets\documents\AlgoWahr\AnW24_week13.pdf) |
 | 14   | Exam Prep, Big Kahoot | [AnW24_week14.pdf](..\assets\documents\AlgoWahr\AnW24_week14.pdf) |
 
+## Additional Material
+
+> [Graphtheorysheet](..\assets\documents\AnD\and-graph-terminology.pdf)
+{: .prompt-info }
