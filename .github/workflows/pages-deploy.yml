@@ -31,4 +31,4 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local_path: './_site/*'
-        remote_path: './homepage/*'
+        remote_path: '/nas/nwehrl/homepage/'
