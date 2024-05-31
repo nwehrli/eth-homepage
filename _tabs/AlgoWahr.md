@@ -31,3 +31,6 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 | 10   | Convex Hull, Jarvis Wrap, Local Repair | [AnW24_week10.pdf](..\assets\documents\AlgoWahr\AnW24_week10.pdf)|
 | 11   | No lesson, Ascension | - |
 | 12   | Flows, Applications of Flows | [AnW24_week12.pdf](..\assets\documents\AlgoWahr\AnW24_week12.pdf) |
+| 13   | Randomized MinCut | [AnW24_week13.pdf](..\assets\documents\AlgoWahr\AnW24_week13.pdf) |
+| 14   | Exam Prep, Big Kahoot | [AnW24_week14.pdf](..\assets\documents\AlgoWahr\AnW24_week14.pdf) |
+
