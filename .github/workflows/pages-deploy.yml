@@ -24,10 +24,11 @@ jobs:
       run: JEKYLL_ENV=production bundle exec jekyll build
     
     # Looks kind of complicated but just uploads the content of _site folder to the ftp server. It does not upload the _site folder itself.
-    - name: Upload site to FTP.
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+    - name: Upload site with SFTP
+      uses:  wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
         server: ${{ secrets.FTP_LOCATION }} 
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        protocol: ftps
+        local_path: './_site/*'
+        remote_path: './homepage/*'
