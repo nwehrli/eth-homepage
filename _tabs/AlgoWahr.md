@@ -36,5 +36,5 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 
 ## Additional Material
 
-> [Graphtheorysheet](..\assets\documents\AnD\and-graph-terminology.pdf)
-{: .prompt-info }
+> See Julian's [terminology sheet](..\assets\documents\AnD\and-graph-terminology.pdf) for a helpful overview of keywords.
+{: .prompt-tip }
