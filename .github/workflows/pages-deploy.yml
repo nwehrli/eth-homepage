@@ -25,9 +25,9 @@ jobs:
     
     # Looks kind of complicated but just uploads the content of _site folder to the ftp server. It does not upload the _site folder itself.
     - name: Upload site to FTP.
-      env: 
-        ftp_location: ${{ secrets.FTP_LOCATION }} # Pass in required secrets.
-        ftp_username: ${{ secrets.FTP_USERNAME }}
-        ftp_password: ${{ secrets.FTP_PASSWORD }} 
-      run: |
-        ncftpput -R -v -u "$ftp_username" -p "$ftp_password" $ftp_location / _site/* 
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_LOCATION }} 
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        protocol: ftps
