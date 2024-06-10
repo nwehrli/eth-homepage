@@ -39,4 +39,4 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 > See Julian's [terminology sheet](..\assets\documents\AnD\and-graph-terminology.pdf) for a helpful overview of keywords.
 {: .prompt-tip }
 > See this [compilation](https://create.kahoot.it/details/f0f7b1ce-4515-4614-897e-5fc4efb9c221) of kahoot questions I prepared with some TA's last year 
-{: .prompt-tip}
+{: .prompt-tip }
