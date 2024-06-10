@@ -38,9 +38,12 @@ You can contact me by [mail](mailto:nwehrl@student.ethz.ch) or on Discord @Nicol
 
 > See Julian's [terminology sheet](..\assets\documents\AnD\and-graph-terminology.pdf) for a helpful overview of keywords.
 {: .prompt-tip }
+
 > See this [compilation](https://create.kahoot.it/details/f0f7b1ce-4515-4614-897e-5fc4efb9c221) of biweekly kahoot questions I prepared with some TA's last year.
 {: .prompt-tip }
+
 > See this [final kahoot](https://create.kahoot.it/share/anw-summary/dadaa311-551f-4195-980a-0b131cf5573f) used in the last exercise session. You can find the solutions with explanations [here](..\assets\documents\AlgoWahr\BigKahoot_solutions.pdf).
 {: .prompt-tip }
-> You can find the Java source file of an implementation of the Hamilton DP [here](..\assets\documents\AlgoWahr\hamiltonDP.java). This implmentation was done by my TA Oliver. This should be low on your priority list for exam prep. 
+
+> You can find the Java source file of an implementation of the Hamilton DP [here](..\assets\documents\AlgoWahr\hamiltonDP.java). This implementation was done by my TA Oliver. This should be low on your priority list for exam prep. 
 {: .prompt-tip }
