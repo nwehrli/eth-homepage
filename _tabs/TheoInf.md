@@ -1,16 +1,16 @@
 ---
-title: Theoretical Computer Science - Autumn 2023
+title: Theoretical Computer Science - Autumn 2024
 icon: fa-solid fa-layer-group
 categories: [Courses, TheoInf]
 tags: [TheoInf]
 author: 1
 pin: true
-order: 3
+order: 2
 ---
 
 ## General Information
 
-Thursday 16:15 - 18:00 at HG F 26.5
+Tuesday 14:15 - 18:00 at LFW B2
 
 > Here you can find the current version of the [summary](..\assets\documents\summaries\Beweisideen101.pdf).
 {: .prompt-info}

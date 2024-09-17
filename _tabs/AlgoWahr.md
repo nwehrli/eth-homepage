@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-dice
-order: 2
+order: 3
 title: Algorithms & Probability - Spring 2024
 categories: Courses AlgoWahr
 tags: teaching
