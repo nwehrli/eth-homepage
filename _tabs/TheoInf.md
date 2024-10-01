@@ -22,7 +22,7 @@ If you spot any mistakes, I'm always grateful for a small message pointing it ou
 | Week | Keywords                                                        | File                                                            |
 | ---- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | 01   | Grundbegriffe, Algorithmische Probleme  | [TI24_week01.pdf](..\assets\documents\TheoInf\week01_short.pdf) |
-| 02   | How To Kolmogorov, Endliche Automaten Einführung                | [TI23_week02.pdf](..\assets\documents\TheoInf\week02_short.pdf) |
+| 02   | How To Kolmogorov, Endliche Automaten Einführung                | [TI24_week02.pdf](..\assets\documents\TheoInf\week02_short.pdf) |
 | 03   | Endliche Automaten, Nichtregularität: Lemma 3.3, Pumping Lemma  | [TI23_week03.pdf](..\assets\documents\TheoInf\week03_short.pdf) |
 | 04   | Nichtregularität: Wiederholung, Kolmogorov-Methode, NEAs        | [TI23_week04.pdf](..\assets\documents\TheoInf\week04_short.pdf) |
 | 05   | NEA: Mindestanzahl Zustände, Turing Maschinen, Midterm Prep     | [TI23_week05.pdf](..\assets\documents\TheoInf\week05_short.pdf) |
