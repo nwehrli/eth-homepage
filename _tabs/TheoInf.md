@@ -12,7 +12,8 @@ order: 2
 
 Tuesday 14:15 - 18:00 at LFW B2
 
-> Here you can find the current version of the [summary](..\assets\documents\summaries\Beweisideen101.pdf).
+> Here you can find last years version of the [summary](..\assets\documents\summaries\Beweisideen101.pdf). 
+I will update it with this years changes before the mid- and endterm.
 {: .prompt-info}
 
 If you spot any mistakes, I'm always grateful for a small message pointing it out or/and giving suggestions.
