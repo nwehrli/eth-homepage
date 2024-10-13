@@ -10,7 +10,7 @@ order: 2
 
 ## General Information
 
-Tuesday 14:15 - 18:00 at LFW B2
+Tuesday 14:15 - 18:00 at ~~LFW B2~~ CAB G59
 
 > Here you can find last years version of the [summary](..\assets\documents\summaries\Beweisideen101.pdf). 
 I will update it with this years changes before the mid- and endterm.
