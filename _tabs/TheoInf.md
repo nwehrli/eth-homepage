@@ -13,7 +13,7 @@ order: 2
 Tuesday 14:15 - 16:00 at ~~LFW B2~~ CAB G59
 
 > Here you can find last years version of the [summary](..\assets\documents\summaries\Beweisideen101.pdf). 
-I will update it with this years changes before the mid- and endterm.
+Small update for midterm, not significant.
 {: .prompt-info}
 
 If you spot any mistakes, I'm always grateful for a small message pointing it out or/and giving suggestions.
@@ -28,7 +28,7 @@ If you spot any mistakes, I'm always grateful for a small message pointing it ou
 | 04   | Nichtregularität: Pumping Lemma, Kolmogorov Methode, Übungen    | [TI24_week04.pdf](..\assets\documents\TheoInf\week04_short.pdf) |
 | 05   | NEA: Theorie, Mindestanzahl Zustände, Turing Maschinen          | [TI24_week05.pdf](..\assets\documents\TheoInf\week05_short.pdf) |
 | 06   | TM, NTM, Berechenbarkeit: Diagonalisierung                      | [TI24_week06.pdf](..\assets\documents\TheoInf\week06_short.pdf) |
-| 07   | Berechenbarkeit: Reduktion, Tipps und Tricks                    | [TI23_week07.pdf](..\assets\documents\TheoInf\week07_short.pdf) |
+| 07   | Berechenbarkeit: Reduktion, Tipps und Tricks                    | [TI24_week07.pdf](..\assets\documents\TheoInf\week07_short.pdf) |
 | 08   | Berechenbarkeit: R-Reduktion und EE-Reduktion, Tipps und Tricks | [TI23_week08.pdf](..\assets\documents\TheoInf\week08_short.pdf) |
 | 09   | Satz von Rice: Beweis, EE-Reduktion für L_RE                    | [TI23_week09.pdf](..\assets\documents\TheoInf\week09_short.pdf) |
 | 10   | Komplexitätstheorie                                             | [TI23_week10.pdf](..\assets\documents\TheoInf\week10_short.pdf) |
