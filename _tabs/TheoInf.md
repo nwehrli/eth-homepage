@@ -29,7 +29,7 @@ If you spot any mistakes, I'm always grateful for a small message pointing it ou
 | 05   | NEA: Theorie, Mindestanzahl Zustände, Turing Maschinen          | [TI24_week05.pdf](..\assets\documents\TheoInf\week05_short.pdf) |
 | 06   | TM, NTM, Berechenbarkeit: Diagonalisierung                      | [TI24_week06.pdf](..\assets\documents\TheoInf\week06_short.pdf) |
 | 07   | Midterm Preparation, Recap Task Types and Theory                | [TI24_week07.pdf](..\assets\documents\TheoInf\week07_short.pdf) |
-| 08   | Berechenbarkeit: R-Reduktion und EE-Reduktion, Tipps und Tricks | [TI23_week08.pdf](..\assets\documents\TheoInf\week08_short.pdf) |
+| 08   | Berechenbarkeit: R-Reduktion und EE-Reduktion, Tipps und Tricks | [TI24_week08.pdf](..\assets\documents\TheoInf\week08_short.pdf) |
 | 09   | Satz von Rice: Beweis, EE-Reduktion für L_RE                    | [TI23_week09.pdf](..\assets\documents\TheoInf\week09_short.pdf) |
 | 10   | Komplexitätstheorie                                             | [TI23_week10.pdf](..\assets\documents\TheoInf\week10_short.pdf) |
 | 11   | NP-Vollständigkeit, P-Reduktionen                               | [TI23_week11.pdf](..\assets\documents\TheoInf\week11_short.pdf) |
